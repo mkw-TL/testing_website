@@ -1,0 +1,11 @@
+name: test_website
+title:
+username:
+account: mkw-tl
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9339465
+bundleId: 7368248
+url: https://mkw-tl.shinyapps.io/test_website/
+when: 1687291758.74182
+lastSyncTime: 1687291758.74184
